@@ -4,7 +4,7 @@
 
 - open browser and visit www.engineering.apssdc.in/register you will navigate a page as shown below.
 
-![subscribe Image](D:\Git & GitHub\RegistrationProcess\img\01.png)
+![subscribe Image](img/01.png)
 
 - Fill you college details horizontally as shown above like
   1. **District**
@@ -26,21 +26,21 @@ Then click on **Subscribe**
 
 After clicking on Subscribe you will receive an email as shown below. Open that mail and click on **here** as shown below.
 
-![Email Page](D:\Git & GitHub\RegistrationProcess\img\02.png)
+![Email Page](img/02.png)
 
 After clicking on **here** you will navigate to this below page fill all your details and click on **next**.
 
-![03](D:\Git & GitHub\RegistrationProcess\img\03.png)
+![03](img/03.png)
 
 After filling clicking on **next **and you will navigate to this below Communication details page fill all your details and click on **next**.
 
-![04](D:\Git & GitHub\RegistrationProcess\img\04.png)
+![04](img/04.png)
 
 After clicking on **next **and you will navigate to this below Education details page click on **Under Graduate ** if you are B. Tech and select **Post Graduate** if you are from M. Tech/MCA/MBA as show below and fill all your SSC/10th details and click on **Inter/ 12th/ Diploma**.![05](D:\Git & GitHub\RegistrationProcess\img\05.png)
 
 After clicking on  **Inter/ 12th/ Diploma** and you will navigate to this below tab fill all your details and click on **Graduation** link.
 
-![07](D:\Git & GitHub\RegistrationProcess\img\07.png)
+![07](img/07.png)
 
 After clicking on **Graduation** and you will navigate to this below tab fill all your details and click on **Next**.
 
@@ -50,11 +50,11 @@ After clicking on **Graduation** and you will navigate to this below tab fill al
 
 2. **Graduation Date:** Your College ending date (mostly April 30 and Year of Graduation)
 
-![08](D:\Git & GitHub\RegistrationProcess\img\08.png)
+![08](img/08.png)
 
 After clicking on **next **and you will navigate to this below Placement page. if you got any placement update those details.
 
-![09](D:\Git & GitHub\RegistrationProcess\img\09.png)
+![09](img/09.png)
 
 After clicking on register you will get a popup window **success**
 
