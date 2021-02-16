@@ -2,7 +2,7 @@
 
 ## Step 1
 
-- open browser and visit www.engineering.apssdc.in/register you will navigate a page as shown below.
+open browser and visit **www.engineering.apssdc.in/register** you will navigate a page as shown below.
 
 ![subscribe Image](img/01.png)
 
