@@ -25,7 +25,13 @@ Then you will get this below image.
 
 ![Verify Existing Information image](img/img4.png)
 
+![validate image](img/img5.png)
+
 Fill all your details and click on **Validate**.
 
 ## step 5
-After clicking on **Validate** you will get a Verification Mail to your mail ID and complete the process.
+After clicking on **Validate** you will get Verification page like below.
+
+![verification image](img/img7.png)
+
+Verify your Mail Id and Click on **verify** option, then you will get a reset mail to your mail ID and complete the process.
