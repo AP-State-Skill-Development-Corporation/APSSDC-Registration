@@ -1,4 +1,4 @@
-# SPOC Registraion to the New Portal
+# SPOC Registration to the New Portal
 ## Step 1
 open browser and visit **https://www.apssdc.in/home/** you will navigate a page as shown below.
 
